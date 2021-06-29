@@ -1,0 +1,29 @@
+{
+  "name": "alterian-ui-katas",
+  "version": "1.0.0",
+  "description": "This REPO contains various programming challenges, and refactoring tasks. Be sure to read each tasks \"README\" for further details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register src/**/*.spec.ts",
+    "test:01-banking": "mocha -r ts-node/register src/01-banking/*.spec.ts",
+    "test:02-taxi-cab": "mocha -r ts-node/register src/02-taxi-cab/*.spec.ts",
+    "test:03-cricket-board": "mocha -r ts-node/register src/03-rounders-board/*.spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ct5845@bitbucket.org/alterian/ui-refactor-tasks.git"
+  },
+  "author": "cturner@alterian.com",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/alterian/ui-refactor-tasks#readme",
+  "devDependencies": {
+    "@types/chai": "^4.2.19",
+    "@types/mocha": "^8.2.2",
+    "@types/sinon": "^10.0.2",
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1",
+    "sinon": "^11.1.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  }
+}
