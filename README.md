@@ -1,10 +1,10 @@
 # README #
 
-This REPO contains various programming challenges/`Katas`. Be sure to read each tasks "README" for further details.
+This REPO contains various programming challenges/refactoring tasks. Be sure to read each tasks "README" for further details.
 
 Don't feel like you need to complete them all!
 
-Once you're done, zip the solution (don't include `node_modules`) and send it to cturner@alterian.com.
+Once you're done, zip the your source code up (don't include `node_modules`) and send it to ui-devs@alterian.com, along with your name and CV.
 
 ## Getting Started
 
@@ -16,3 +16,6 @@ git clone git@bitbucket.org:alterian/ui-refactor-tasks.git
 ``
 npm i
 ``
+
+#### Tackling the tasks
+There are currently 3 tasks 01-Banking, 02-Tax-Cab, 03-Rounders-Board in the `/src` directory. Feel free to complete as many/any possible. Try to timebox yourself to no more then 30 minutes for each.
