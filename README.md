@@ -18,4 +18,10 @@ npm i
 ``
 
 #### Tackling the tasks
-There are currently 3 tasks 01-Banking, 02-Tax-Cab, 03-Rounders-Board in the `/src` directory. Feel free to complete as many/any possible. Try to timebox yourself to no more then 30 minutes for each.
+There are currently 3 tasks 
+
+* [01-Banking](./src/01-banking)
+* [02-Taxi-Cab](./src/02-taxi-cab)
+* [03-Rounders-Board](./src/03-rounders-board)
+
+Located in the `/src` directory. Feel free to complete as many/any possible. Try to timebox yourself to no more then 30 minutes for each.
