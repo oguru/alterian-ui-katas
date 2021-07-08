@@ -1,5 +1,5 @@
 {
-  "name": "alterian-ui-katas",
+  "name": "ui-katas",
   "version": "1.0.0",
   "description": "This REPO contains various programming challenges, and refactoring tasks. Be sure to read each tasks \"README\" for further details.",
   "main": "index.js",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ct5845@bitbucket.org/alterian/ui-refactor-tasks.git"
+    "url": "git+https://github.com/AlterianCX/ui-katas"
   },
-  "author": "cturner@alterian.com",
+  "author": "ui-devs@alterian.com",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/alterian/ui-refactor-tasks#readme",
+  "homepage": "https://github.com/AlterianCX/ui-katas",
   "devDependencies": {
     "@types/chai": "^4.2.19",
     "@types/mocha": "^8.2.2",
