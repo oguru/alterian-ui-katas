@@ -1,10 +1,4 @@
-# README #
-
-This REPO contains various programming challenges/refactoring tasks. Be sure to read each tasks "README" for further details.
-
-Don't feel like you need to complete them all!
-
-Once you're done, zip the your source code up (don't include `node_modules`) and send it to ui-devs@alterian.com, along with your name and CV.
+This REPO contains various programming challenges/refactoring tasks, to be submitted alongside a CV for job applications at Alterian (as a UI Developer). Be sure to read each tasks "README" for further details.
 
 ## Getting Started
 
@@ -24,4 +18,10 @@ There are currently 3 tasks
 * [02-Taxi-Cab](./src/02-taxi-cab)
 * [03-Rounders-Board](./src/03-rounders-board)
 
-Located in the `/src` directory. Feel free to complete as many/any possible. Try to timebox yourself to no more then 30 minutes for each.
+Located in the `/src` directory.
+
+#### Submitting your code/solutions
+Once you're done, zip the your source code up (don't include `node_modules`) and send it to `ui-devs@alterian.com`, along with your name and CV.
+
+#### Then what?
+One of the team members will have a look over your code, and we'll get back to you, either with an invitation for an interview, or with some suggested feedback based on the exercises to help improve going forward.
