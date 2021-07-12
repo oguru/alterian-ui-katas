@@ -21,7 +21,7 @@ There are currently 3 tasks
 Located in the `/src` directory.
 
 #### Submitting your code/solutions
-Once you're done, zip the your source code up (don't include `node_modules`) and send it to `DevOps.UI@alterian.com`, along with your name and CV.
+Once you're done, zip the your source code up (don't include `node_modules`) and send it to `dev@alterian.com`, along with your name and CV.
 
 #### Then what?
 One of the team members will have a look over your code, and we'll get back to you, either with an invitation for an interview, or with some suggested feedback based on the exercises to help improve going forward.
