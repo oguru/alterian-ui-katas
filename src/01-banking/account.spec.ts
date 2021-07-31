@@ -8,7 +8,9 @@ describe('Account', () => {
                 `12/01/2020\t+500\t500\n` +
                 `13/01/2020\t-250\t250\n`;
 
-            const actualResult = printStatement();
+            const accountHistory = [{'12/01/20': [500]}, {'13/01/20': [-250]}]
+
+            const actualResult = printStatement(myAccount, accountHistory);
 
             expect(actualResult).to.equal(expectedResult);
         });
